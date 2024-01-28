@@ -34,7 +34,7 @@ public class Inventory : MonoBehaviour
     public static Inventory instance;
 
 
-    const int InventorySize = 24;
+    const int InventorySize = 42;
     private bool isOpen = false;
 
     private void Awake()
@@ -50,7 +50,7 @@ public class Inventory : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.E))
         {
             if(isOpen)
             {
