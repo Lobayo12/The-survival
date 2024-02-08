@@ -9125,7 +9125,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   availableRecipes:
+  - {fileID: 11400000, guid: ffcf8ac8d14fa984a827823229834236, type: 2}
+  - {fileID: 11400000, guid: 4f0267df737f59c40a6da01d4d022d28, type: 2}
   - {fileID: 11400000, guid: d617762a80c39fe4b8c7738edd532b21, type: 2}
+  - {fileID: 11400000, guid: e1b3edf901eaa7241a494a199c538eb3, type: 2}
+  - {fileID: 11400000, guid: b4e22a3bab303c54aa62f98a9e17a11d, type: 2}
+  - {fileID: 11400000, guid: e454ec6b647bae445badabfbc099f9ad, type: 2}
   recipeUiPrefab: {fileID: 2601141412277302037, guid: 63b1d72c88a41104b9ffdbc419fbb53c, type: 3}
   recipesParent: {fileID: 443568560}
   openCraftPanelInput: 99
@@ -21885,85 +21890,7 @@ MonoBehaviour:
   content:
   - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
     count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
-    count: 99
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
+  - itemData: {fileID: 11400000, guid: 881b1d55ec3b47b4f8f80e52795d9da4, type: 2}
     count: 99
   inventoryPanel: {fileID: 1896388386}
   inventorySlotsParent: {fileID: 1521099701}
